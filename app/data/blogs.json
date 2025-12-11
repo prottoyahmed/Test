@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "title": "Getting Started with Make.com",
+    "slug": "getting-started-make",
+    "excerpt": "Learn automation basics...",
+    "content": "# Getting Started\n\nMake.com is powerful...",
+    "tags": ["make.com", "automation"],
+    "date": "2025-01-15"
+  }
+]
